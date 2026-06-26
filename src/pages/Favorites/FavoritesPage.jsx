@@ -10,7 +10,7 @@ export function FavoritesPage() {
   return (
     <div className="list-grid">
       <PageHeader
-        badge="Module 6"
+        badge="Bookmarked Items"
         title="Favorites"
         description="Keep your most relevant developers and repositories in one fast-access workspace."
       />

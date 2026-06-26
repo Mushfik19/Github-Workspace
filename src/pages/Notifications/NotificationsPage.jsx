@@ -8,7 +8,7 @@ export function NotificationsPage() {
   return (
     <div className="list-grid">
       <PageHeader
-        badge="Module 9"
+        badge="Activity Feed"
         title="Notification center"
         description="Local notifications make the app feel like a real workspace instead of a static demo."
         actions={

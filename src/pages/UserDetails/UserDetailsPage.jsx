@@ -62,7 +62,7 @@ export function UserDetailsPage() {
   return (
     <div className="list-grid">
       <PageHeader
-        badge="Module 3"
+        badge="Developer Profile"
         title={user.login}
         description={user.bio || 'GitHub developer profile view'}
         actions={

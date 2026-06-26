@@ -7,7 +7,7 @@ export function SettingsPage() {
   return (
     <div className="list-grid">
       <PageHeader
-        badge="Module 10"
+        badge="Preferences"
         title="Workspace settings"
         description="Theme, page size, and default search behavior are all persisted locally."
       />

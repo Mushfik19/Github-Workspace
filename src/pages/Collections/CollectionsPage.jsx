@@ -23,7 +23,7 @@ export function CollectionsPage() {
   return (
     <div className="list-grid">
       <PageHeader
-        badge="Module 5"
+        badge="My Collections"
         title="Repository collections"
         description="Group repositories by purpose so your GitHub research can turn into actual workstreams."
       />

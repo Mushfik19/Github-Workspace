@@ -73,7 +73,7 @@ export function RepositoryDetailsPage() {
   return (
     <div className="list-grid">
       <PageHeader
-        badge="Module 4"
+        badge="Repository Explorer"
         title={repository.full_name}
         description={repository.description || 'Repository explorer'}
         actions={

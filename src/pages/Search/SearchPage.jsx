@@ -167,7 +167,7 @@ export function SearchPage() {
   return (
     <div className="list-grid">
       <PageHeader
-        badge="Module 2 + Module 7"
+        badge="Search"
         title="Search GitHub users and repositories"
         description="Users search supports multiple usernames at once, and repository search keeps filters synced in the URL for sharing."
         actions={
